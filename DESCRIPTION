@@ -1,0 +1,12 @@
+Package: SOMic
+Type: Package
+Title: Soil Organic Carbon Model with Microbial Dynamics
+Version: 1.0
+Date: 2018-07-14
+Author: Dominic Woolf
+Maintainer: Dominic Woolf <d.woolf@cornell.edu>
+Description: Provides code and examples for using the SOMic 
+  soil carbon model. See https://www.nature.com/articles/s41598-019-43026-8
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.0), data.table, ggplot2
+LinkingTo: Rcpp
